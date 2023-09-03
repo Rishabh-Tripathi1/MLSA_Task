@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/set.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Hackathon Winning Project!✨",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This webapp is capable of accompanying your personal finances with the help of AI. Its app also enhances the user's experience.",
+    url: "https://github.com/chinmay29hub/Hackerstellar-BootstrapParadox",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Microsoft Learn Students Club 👨‍💻",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "We are a group of curious and motivated learners who want to discover new technologies, enhance our skills, and work on inspiring projects.",
+    url: "https://www.linkedin.com/company/mlsc-vcet/",
   },
   {
-    title: "My Resume Site",
+    title: "Handwritten Code Compiler using OCR📱",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This code scanner app is a Java based project and it will be compiled and run in Android Studio Code.",
+    url: "https://github.com/Rishabh-Tripathi1/CodeScanner",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Read my published paper!🔬",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The proposed paper is a browser extension that provides real-time scanning and processing of YouTube videos to detect and disarm potential seizure-inducing segments.",
+    url: "https://ieeexplore.ieee.org/document/10192767/",
   },
 ];
 
