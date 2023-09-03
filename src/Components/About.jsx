@@ -44,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-"I'm a tech-savvy leader passionate about machine learning and web development. I value both solitude and collaboration, embrace challenges, and find inspiration in reading, nature walks, and video editing, all while prioritizing work-life balance.";
+  "I'm a tech-savvy leader passionate about machine learning and web development. I value both solitude and collaboration, embrace challenges, and find inspiration in reading, nature walks, and video editing, all while prioritizing work-life balance.";
 
 const About = () => {
   return (
